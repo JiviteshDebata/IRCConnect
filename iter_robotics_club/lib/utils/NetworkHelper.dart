@@ -4,8 +4,8 @@ import 'package:http/http.dart' as http;
 //TODO All apis implemented here split to other dart files later
 
 class NetworkHelper {
-  final String baseUrl =
-      // "https://api.weatherapi.com/v1/current.json?key=63b555c5f07647868f642959203009&q=";
+  final String baseUrl = "";
+  // "https://api.weatherapi.com/v1/current.json?key=63b555c5f07647868f642959203009&q=";
 
   NetworkHelper();
 

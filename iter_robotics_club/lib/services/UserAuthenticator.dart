@@ -1,5 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter_poc/services/UserAccountRegister.dart';
+import 'package:iter_robotics_club/services/UserAccountRegister.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class UserAuthenticator {
