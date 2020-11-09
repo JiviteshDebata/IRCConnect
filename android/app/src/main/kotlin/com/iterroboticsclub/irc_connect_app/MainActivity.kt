@@ -1,4 +1,4 @@
-package com.example.iter_robotics_club
+package com.iterroboticsclub.irc_connect_app
 
 import io.flutter.embedding.android.FlutterActivity
 
